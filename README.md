@@ -1,3 +1,6 @@
+# NAME : NAVEEN KUMAR T
+# REG NO : 212223220067
+# DATE : 25:08:2025
 ## Ex. No: 3  DHCP Configuration Using a Router
 Date:
 ________________________________________
@@ -63,8 +66,14 @@ Router(dhcp-config)# exit<br>
 ________________________________________
 # Output (Screenshots)
 •	DHCP IP configuration shown in PC0 and PC1<br>
+<img width="1915" height="1077" alt="Screenshot 2025-08-25 143805" src="https://github.com/user-attachments/assets/bb95f737-f59e-42e5-bfd7-351328b0c589" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-25 143817" src="https://github.com/user-attachments/assets/7fe5e73c-d38a-49f0-ae49-831501771555" />
 •	Router configuration screen<br>
+<img width="1916" height="1078" alt="Screenshot 2025-08-25 143739" src="https://github.com/user-attachments/assets/47ee50df-764f-4f0c-8a2a-7c762c892366" />
+
 •	Successful ping test between the two PCs<br>
+<img width="1910" height="1014" alt="Screenshot 2025-08-25 143731" src="https://github.com/user-attachments/assets/4d20ed27-e17c-4fcc-a4c0-377a38995aec" />
+
 ________________________________________
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
